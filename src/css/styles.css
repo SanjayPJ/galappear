@@ -1,0 +1,16 @@
+body {
+    font-family: 'Molengo', sans-serif;
+}
+#main-header{
+	background-image: url("../img/pattern.png");
+	height: 300px;
+}
+.content-wrapper{
+	margin-top: 40px;
+}
+.row-1, .row-2, .row-3{
+	padding-top: 20px;
+}
+.row{
+	margin: 0;
+}
